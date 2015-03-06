@@ -1,7 +1,7 @@
 /**
  * Primjer prvog programa "Dobar dan"
- * @author Kruno
- *
+ * @author Krunoslav Žubriniæ
+ * 6. ožu 2015.
  */
 public class DobarDan {
 	// Polazna metoda Java programa
