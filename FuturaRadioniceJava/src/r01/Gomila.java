@@ -3,7 +3,7 @@ package r01;
  * Primjer stvaranja više objekata, mijenjanja
  * njihovih svojstava i pozivanja metoda.
  * @author Krunoslav Žubriniæ
- * 6. ožu 2015.
+ * 6. ožujak 2015.
  */
 public class Gomila {
 	public static void main(String[] args) {

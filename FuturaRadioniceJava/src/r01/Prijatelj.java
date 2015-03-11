@@ -4,7 +4,7 @@ package r01;
  * o imenu i starosti prijatelja
  * Zbog jednostavnosti, ne koristi modifikatore pristupa
  * @author Krunoslav Žubriniæ
- * 6. ožu 2015.
+ * 6. ožujak 2015.
  */
 public class  Prijatelj 
 {		

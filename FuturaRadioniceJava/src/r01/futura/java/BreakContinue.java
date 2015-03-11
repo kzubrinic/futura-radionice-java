@@ -1,12 +1,12 @@
 // Program je smješten u paket futura.java.r01 
 package r01.futura.java;
-//Klasa Scanner je opisana u paketu java.util pa taj paket treba
+//Razred Scanner je opisan u paketu java.util pa taj paket treba
 //ukljuèiti u program.
 import java.util.Scanner;
 /**
  * Primjer korištenja break i continue unutar petlje
  * @author Krunoslav ubriniæ
- * 6. ou 2015.
+ * 6. oujak 2015.
  */
 public class BreakContinue {
 	public static void main(String[] args)

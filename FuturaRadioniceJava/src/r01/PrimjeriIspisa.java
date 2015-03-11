@@ -3,7 +3,7 @@ package r01;
  * Primjer razlièitih ispisa pomoæu metoda
  * print, println i printf
  * @author Krunoslav Žubriniæ
- * 6. ožu 2015.
+ * 6. ožujak 2015.
  */
 public class PrimjeriIspisa {
 	public static void main(String[] args) {

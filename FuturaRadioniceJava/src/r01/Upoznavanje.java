@@ -3,7 +3,7 @@ package r01;
  * Primjer stvaranja jednog objekta, pristup varijablama
  * i metodama stvorenog objekta.
  * @author Krunoslav Žubriniæ
- * 6. ožu 2015.
+ * 6. ožujak 2015.
  */
 public class Upoznavanje {
 	public static void main(String[] args) {

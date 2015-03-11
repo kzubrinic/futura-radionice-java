@@ -1,13 +1,13 @@
 // Program je smješten u paket futura.java.r01 
 package r01.futura.java;
-//Klasa Scanner je opisana u paketu java.util pa taj paket treba
-//ukljuèiti u program.
+// Razred Scanner je opisan u paketu java.util pa taj paket treba
+// ukljuèiti u program.
 import java.util.Scanner;
 /**
  * Raèunaje opsega. Primjer jednostavnog programa gdje se unosi
  * podatak, obraðuje i ispisuje.
  * @author Krunoslav Žubriniæ
- * 6. ožu 2015.
+ * 6. ožujak 2015.
  */
 public class Opseg {
 	public static void main(String[] args) {
