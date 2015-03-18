@@ -1,0 +1,43 @@
+= Druga domaća zadaća
+Rok: Treća radionica - 26.03.2015. 
+:toc: right
+:toc-title: Sadržaj
+:toclevels: 4 
+:figure-caption: Slika
+:imagesdir: ./slike
+:iconsdir: ./ikone
+:stylesdir: ./styles
+:icons: font
+:numbered:
+:stem: latexmath
+
+== Zadatak
+
+Implementirati razred `Trokut` koji treba sadržavati: 
+
+* tri varijable instance tipa `float` koje čuvaju duljine stranica trokuta;
+* konstruktor koji prima tri parametra tipa `float` i postavlja vrijednosti varijabli instance na primljene vrijednosti;
+* metodu `float vratiOpseg()` koja računa i vraća opseg trokuta kao zbroj duljina stranica;
+* metodu `float vratiPovrsinu()` koja računa površinu trokuta pomoću _Heronove_ formule latexmath:[P = \sqrt{s(s-a)(s-b)(s-c)}], gdje je *_s_* polovica opsega trokuta.
+* metodu `boolean equals(Trokut)` koja uspoređuje jesu li dva trokuta jednaka. Dva trokuta su jednaka ako ako su im sve tri stranice jednake duljine.
+* metodu `String toString()` koja vraća podatke o trokutu u obliku niza znakova: `Trokut duljina stranica a=_duljina_, b=_duljina_, c=_duljina_`.
+
+Implementirati testni razred `TestTrokut`. U `main` metodi testnog razreda stvoriti dva objekta tipa `Trokut`. Ispisati njihov opseg, površinu i duljine stranica. Ovisno o tome jesu li dva trokuta jednaka ispisati na zaslon tekst `Trokuti su jednaki` ili `Trokuti su različiti`.
+
+== Zadatak
+
+Implementirati razred `Igra` koji treba sadržavati:
+
+* varijablu razreda `brojIgraca` tipa `int`;
+* varijablu instance `idIgraca` tipa `int`;
+* defaultni konstruktor koji bilježi uključivanje novog igrača u igru na način da 
+** vrijednost varijabli `brojIgraca` i `iBrojIgraca` inkrementira;
+** pridruži id (varijabla `idIgraca`) svakom novom igraču. Id igrača je slučajan broj u intervalu između 100.000 i 999.999; 
+* metodu `String toString()` koja vraća podatke o trenutnoj igri u obliku: `Trenutni broj igrača ove igre je: _brojIgraca_. ID  igrača je: _idIgraca_.`
+
+Implementirati testni razred `TestIgra`. U `main` metodi testnog razreda:
+
+* Stvoriti objekt tipa `Igra` pa pozivom njegove metode `toString()` ispisati podatke o stvorenom objektu;
+* Stvoriti drugi objekt tipa `Igra` pa pozivom njegove metode `toString()` ispisati podatke o stvorenom objektu;
+* Stvoriti treći objekt tipa `Igra` pa pozivom njegove metode `toString()` ispisati podatke o stvorenom objektu;
+* Na temelju načina na koji se mijenjaju vrijednosti varijabli `brojIgraca` i `idIgraca` pojedinog objekta uočite razliku u ponašanju varijabli instance i varijabli razreda.
