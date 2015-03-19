@@ -1,0 +1,51 @@
+= Prva domaća zadaća
+Rok: Druga radionica - 12.03.2015. 
+:toc: right
+:toc-title: Sadržaj
+:toclevels: 4 
+:figure-caption: Slika
+:imagesdir: ./slike
+:iconsdir: ./ikone
+:stylesdir: ./styles
+:icons: font
+:numbered:
+
+:!numbered:
+== Check-lista
+
+Ako ste uspješno izvršili sve obaveze navedene u _check listi_ uspješno se izradili prvu domaću zadaću! *Čestitamo*!
+
+[options=interactive]
+- [ ] Instaliran Java Development Kit (_na računalu kod kuće_)
+- [ ] Podešen Java Development Kit (_na računalu kod kuće_)
+- [ ] Instalirano Eclipse razvojno okruženje (_na računalu kod kuće_)
+- [ ] Testirano Eclipse razvojno okruženje (_na računalu kod kuće_)
+- [ ] Riješen četvrti zadatak s prve radionice
+- [ ] Riješen peti zadatak s prve radionice
+
+:numbered:
+== Upute
+=== Priprema razvojnog okruženja na računalu kod kuće
+
+==== Instalacija i podešavanje Java Development Kita
+
+http://www.futura.com.hr/materijali/java-2015/java-01.html#_java_development_kit_jdk[^]
+
+
+==== Instalacija Eclipse razvojnog okruženja
+
+http://www.futura.com.hr/materijali/java-2015/java-01.html#_instalacija_eclipse_razvojnog_okruženja[^]
+
+==== Testiranje instaliranog Eclipse razvojnog okruženja
+
+http://www.futura.com.hr/materijali/java-2015/java-01.html#_izrada_prvog_java_programa[^]
+
+=== Rješavanje zadataka
+
+==== Četvrti zadatak s radionice
+
+image::zadatak-4.jpg[]
+
+==== Peti zadatak s radionice
+
+image::zadatak-5.jpg[]
