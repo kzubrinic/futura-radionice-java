@@ -1,4 +1,3 @@
-
 package r02.rjesenja_dz.zadatak2;
 
 /**
