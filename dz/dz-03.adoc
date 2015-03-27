@@ -1,0 +1,21 @@
+= Treća domaća zadaća
+Rok: Četvrta radionica - 09.04.2015. 
+:toc: right
+:toc-title: Sadržaj
+:toclevels: 4 
+:figure-caption: Slika
+:imagesdir: ./slike
+:iconsdir: ./ikone
+:stylesdir: ./styles
+:icons: font
+:numbered:
+
+=== Rješavanje zadataka
+
+==== Peti zadatak s 2. radionice
+
+image::zadatak-3-5.jpg[]
+
+==== Šesti zadatak s 2. radionice
+
+image::zadatak-3-6.jpg[]
