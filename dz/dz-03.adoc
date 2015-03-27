@@ -10,12 +10,12 @@ Rok: Četvrta radionica - 09.04.2015.
 :icons: font
 :numbered:
 
-=== Rješavanje zadataka
+== Zadaci
 
-==== Peti zadatak s 2. radionice
+=== Peti zadatak s 2. radionice
 
 image::zadatak-3-5.jpg[]
 
-==== Šesti zadatak s 2. radionice
+=== Šesti zadatak s 2. radionice
 
 image::zadatak-3-6.jpg[]
