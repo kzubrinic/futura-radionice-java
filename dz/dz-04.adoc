@@ -1,0 +1,38 @@
+= Četvrta domaća zadaća
+Rok: Peta radionica - 23.04.2015. 
+:toc: right
+:toc-title: Sadržaj
+:toclevels: 4 
+:figure-caption: Slika
+:imagesdir: ./slike
+:iconsdir: ./ikone
+:stylesdir: ./styles
+:icons: font
+:numbered:
+
+== Zadaci
+
+=== Baza podataka učenika
+
+Napravite jednostavnu bazu podataka studenata koja se čuva u memoriji prema uputama i UML dijagramu. Svaki element koji se sprema u bazu je objekt tipa Student koji treba sadržavati sljedeće elemente: 
+
+- id (cijeli broj), 
+- ime i prezime (niz znakova), 
+- prosječna ocjena (realni broj).
+
+Bazu implementirajte nekom od implementacija sučelja `Map`.
+
+U svom programu trebate implementirati sljedeće metode za rad s bazom:
+
+- Unos novog studenta,
+- Izmjena prosječne ocjene studenta sa zadanim id-jem,
+- Brisanje studenata sa zadanim id-jem,
+- Prikaz podataka studenta s zadanim id-jem,
+- Prikaz podataka svih studenata,
+- Nuliranje prosječne ocjene svih studenata.
+
+Razred Student treba implementirati sučelje `Comparable` odnosno metodu `int compareTo(Object)`. Usporedbu napravite prema prezimenu i imenu studenta.
+
+UML dijagram aplikacije prikazan je na sljedećem slajdu
+
+image::zadatak-6.jpg[]
